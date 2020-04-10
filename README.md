@@ -6,4 +6,4 @@
 
 #Step 3: npm run build
 
-#Step 4: npm run st#Step 3: npm run start
+#Step 4: npm run start
